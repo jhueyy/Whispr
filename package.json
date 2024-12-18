@@ -1,0 +1,17 @@
+{
+  "name": "whispr",
+  "version": "1.0.0",
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "eslint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.1.0",
+    "eslint": "^9.17.0",
+    "prettier": "^3.4.2"
+  }
+}
